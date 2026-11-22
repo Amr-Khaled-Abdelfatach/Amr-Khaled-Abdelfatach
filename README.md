@@ -12,10 +12,10 @@
 
 <!-- Social & Profile Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/amr6" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="mailto:amrkhaled02003@gmail.com"><img src="https://img.shields.io/badge/Email_Me-0284C7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;
-  <a href="https://amr-khaled-abdelfatach.github.io/NBE_-ALM_Platform/" target="_blank"><img src="https://img.shields.io/badge/Live_Portfolio-1E3A5F?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio"/></a>&nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Amr-Khaled-Abdelfatach&label=Views&color=0284C7&style=for-the-badge" alt="Profile Views"/>
+  <a href="https://www.linkedin.com/in/amr6" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1E3A5F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="mailto:amrkhaled02003@gmail.com"><img src="https://img.shields.io/badge/Email_Me-881337?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;
+  <a href="https://amr-khaled-abdelfatach.github.io/NBE_-ALM_Platform/" target="_blank"><img src="https://img.shields.io/badge/Live_Portfolio-0369A1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Amr-Khaled-Abdelfatach&label=Views&color=881337&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
