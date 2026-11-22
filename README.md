@@ -30,11 +30,17 @@
 
 Detail-oriented **Data Analyst** based in **Giza, Egypt**, passionate about transforming complex, raw datasets into clear dashboards and data-driven business decisions.
 
-- 🎓 Pursuing a **Master's Degree in Big Data** at *Fayoum University* & a **Postgraduate Diploma in Big Data & Data Science** at *Nile University*.
-- 🏅 B.Sc. in **Business Information Systems (BIS)** — *Very Good with Honors (GPA: 3.4)*.
-- 🚀 **Professional Data Analyst Track** at **DEPI**, with hands-on project experience from **DEBI** (9-month Business Analysis scholarship) and **NTI** (Data Analysis Track).
-- 🎯 Focused on **SQL Analytics, Power BI Dashboards, Python Data Modeling, and End-to-End BI Solutions**.
-- 📫 Reach out for collaborations or Data Analyst opportunities: **amrkhaled02003@gmail.com**
+### 🎓 Education
+- **Master's Degree in Big Data** — *Fayoum University* *(2026 – Present)*.
+- **Postgraduate Diploma in Big Data & Data Science** — *Nile University* *(2025 – 2027)*.
+- **B.Sc. in Business Information Systems (BIS)** — *Very Good with Honors (GPA: 3.4)*.
+
+### 🚀 Scholarships & Training
+- **DEPI (Digital Egypt Pioneers Initiative):** Professional Data Analyst Track.
+- **DEBI (Digital Egypt Builders Initiative):** 9-month Business & Data Analysis scholarship, delivering 5+ real-world BI projects.
+- **NTI (Digital Egypt Youth):** 3-month Data Analysis Track.
+
+📫 Reach out for collaborations or Data Analyst opportunities: **amrkhaled02003@gmail.com**
 
 ---
 
