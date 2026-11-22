@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:0284C7&height=210&section=header&text=Amr%20Khaled%20Abdelfatah&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20BI%20Developer%20%7C%20Big%20Data%20%26%20Analytics&descAlignY=62&descSize=18" width="100%"/>
+  <img src="./banner.svg" width="100%" alt="Amr Khaled Banner"/>
 </p>
 
 <!-- Animated Typing Subtitle -->
