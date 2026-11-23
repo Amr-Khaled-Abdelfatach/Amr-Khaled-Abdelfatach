@@ -25,8 +25,8 @@
 Detail-oriented **Data Analyst** based in **Giza, Egypt**, passionate about transforming complex, raw datasets into clear dashboards and data-driven business decisions.
 
 ### 🎓 Education
-- **Master's Degree in Big Data** (2026 - Present).
-- **Postgraduate Diploma in Big Data & Data Science**.
+- **Master's Degree in Big Data**.       (2026 - Present)
+- **Postgraduate Diploma in Big Data & Data Science** at Nile University.
 - **B.Sc. in Business Information Systems (BIS)**.
 
 ### 🚀 Scholarships & Training
